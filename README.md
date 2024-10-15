@@ -1,7 +1,7 @@
 Documentation Link: https://azista.atlassian.net/wiki/x/BoBbFg
 
 ****Some Main Concepts****
-**Lag Features**
+**********Lag Features**********
 
 What are Lag Features?
 Lag features are used in time series data to capture the relationship between past and current values of a variable. These features are created by "shifting" the time series data, meaning that you use previous time steps as input for predicting the current or future values. In simple terms, a lag feature represents the value of a time series at an earlier time point.
